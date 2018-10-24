@@ -123,3 +123,10 @@ environments:
         security:
             cas:
                 appServerName: "https://auth.ala.org.au"
+                
+---
+guide:
+    languages:
+        - en
+        - es
+---                
